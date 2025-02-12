@@ -1,0 +1,5 @@
+[report]
+; Regexes for lines to exclude from consideration
+exclude_also =
+    ; Don't complain if the commandline condition isn't run
+    if __name__ == .__main__.:
