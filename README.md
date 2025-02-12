@@ -6,3 +6,7 @@ Fetches the NASA APOD image
 python3 -m venv venv
 source venv/bin/activate
 pip install --upgrade pip
+
+## Running
+
+python fetch_apod.py
